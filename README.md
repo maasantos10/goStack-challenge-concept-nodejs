@@ -76,4 +76,3 @@ $ yarn android</pre></div>
 
 
 <p>Made by Marcos Santos <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="linkedin.com/in/marcos-almeida-santos-ba573842/" rel="nofollow">Get in touch!</a></p>
-
