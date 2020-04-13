@@ -6,7 +6,7 @@
   </svg>
 </a>
   
-  <h2><img src="https://github.com/maasantos10/goStack-challenge-concept-nodejs/assets/images/32px-Node.js_logo.svg.png"/> # goStack-challenge-concept Nodejs </h2> 
+  <h2><img src="https://github.com/maasantos10/goStack-challenge-concept-nodejs/blob/master/assets/images/32px-Node.js_logo.svg.png"/> # goStack-challenge-concept Nodejs </h2> 
 </h4>
 
 
