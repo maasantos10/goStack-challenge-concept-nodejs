@@ -5,7 +5,7 @@
     </path>
   </svg>
 </a>
-  # goStack-challenge-concept Nodejs 
+  <h2># goStack-challenge-concept Nodejs </h2> 
 </h4>
 
 
@@ -75,4 +75,4 @@ $ yarn android</pre></div>
 </hr>
 
 
-<p>Made by Marcos Santos <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="linkedin.com/in/marcos-almeida-santos-ba573842/" rel="nofollow">Get in touch!</a></p>
+<p>Made by Marcos Santos <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://linkedin.com/in/marcos-almeida-santos-ba573842/" rel="nofollow">Get in touch!</a></p>
